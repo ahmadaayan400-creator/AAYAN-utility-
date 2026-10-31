@@ -1,4 +1,4 @@
---==================================================
+--=================================================
 -- AAYAN UTILITY  (premium purple multi-tool, local script)
 -- Fly, speed/jump sliders, fullbright, time, FOV, freecam, emote wheel,
 -- teleport spots (saved), FPS/ping overlay, screenshot mode, 3 themes.
